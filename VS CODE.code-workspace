@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "../VS CODE"
+	},
+	{
+		"path": "../html"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "editor.wordWrap": "on",
+    "liveServer.settings.multiRootWorkspaceName": "html",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": true
+  }
+}

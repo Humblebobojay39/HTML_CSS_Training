@@ -1,0 +1,16 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: navy;
+
+    border: 15px solid rgb(237, 194, 3);
+    padding: 15px;
+    margin: 15px;
+
+}
+
+section {
+    height: 80vh;
+    border: 2px solid black;
+}
+
